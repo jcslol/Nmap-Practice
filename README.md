@@ -1,6 +1,6 @@
 # Nmap Scans and Network Analysis Examples
 
-This repository contains examples and findings from Nmap scans conducted on a simulated network (`172.16.0.0/24`). It provides a practical guide to discovering hosts, identifying firewalls, and analyzing services.
+This repository contains examples and findings from Nmap scans conducted on a simulated network. It provides a practical guide to discovering hosts, identifying firewalls, and analyzing services.
 
 ---
 
